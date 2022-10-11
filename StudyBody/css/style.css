@@ -1,0 +1,141 @@
+form{
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    box-shadow: 0 0 8px 1px;
+    padding: 5px 20px; 
+    width: 500px;
+     margin-top: 19%;
+}
+.form2{
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    box-shadow: 0 0 8px 1px;
+    padding: 40px 20px; 
+    width: 500px;
+    
+    margin-top: 10%;
+}
+.RegForm{
+ 
+position: relative;
+margin-bottom: 10px;
+}
+.Enter
+{
+    border: 1px solid;
+    background: rgb(255, 255, 85);
+    color: black;
+    font-family: 'PT Sans', sans-serif;
+    padding: 5px 20px; 
+    top: 20px;
+    left: 375px;
+    position: relative;
+    text-decoration:none;
+}
+.Enter:hover{
+    color: #fff;
+    background: #333;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+}
+.body
+{background-color: rgb(252, 252, 252);}
+.Reg{
+    border: none;
+    color: black;
+    font-family: 'PT Sans', sans-serif;
+    padding: 5px 20px; 
+    bottom: 15px;
+    position: relative;
+    text-decoration:none;
+}
+.Reg:hover{
+    cursor: pointer;
+    color: rgb(95, 95, 86);
+   	-webkit-transition: all .3s linear;
+   	-moz-transition: all .3s linear;
+    text-decoration:none;
+}
+
+.Next{
+    border: 1px solid;
+    background: rgb(255, 255, 85);
+    font-family: 'PT Sans', sans-serif;
+    padding: 5px 20px; 
+    top: 10px;
+    left: 375px;
+    position: relative;
+}
+.Next{
+    border: 1px solid;
+    background: rgb(255, 255, 85);
+    color: black;
+    font-family: 'PT Sans', sans-serif;
+    padding: 5px 20px; 
+    top: 20px;
+    left: 375px;
+    position: relative;
+    text-decoration:none;
+}
+.Next:hover{
+    color: #fff;
+    background: #333;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+}
+.Enter2{
+    border: none;
+    color: black;
+    font-family: 'PT Sans', sans-serif;
+    top:20px;
+    right: 70px;
+    position: relative;
+    text-decoration:none;
+}
+.Enter2:hover{
+    cursor: pointer;
+    color: rgb(95, 95, 86);
+   	-webkit-transition: all .3s linear;
+   	-moz-transition: all .3s linear;
+    text-decoration:none;
+}
+.Enter3{
+    border: none;
+    color: black;
+    font-family: 'PT Sans', sans-serif;
+    padding: 5px 20px; 
+    bottom: 15px;
+    position: relative;
+    text-decoration:none;
+}
+.Enter3:hover{
+    cursor: pointer;
+    color: rgb(95, 95, 86);
+   	-webkit-transition: all .3s linear;
+   	-moz-transition: all .3s linear;
+    text-decoration:none;
+}
+.Reg2{
+    border: 1px solid;
+    background: rgb(255, 255, 85);
+    color: black;
+    font-family: 'PT Sans', sans-serif;
+    padding: 5px 20px; 
+    top: 20px;
+    left: 275px;
+    position: relative;
+   
+}
+.Reg2:hover{
+    color: #fff;
+    background: #333;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    
+}
